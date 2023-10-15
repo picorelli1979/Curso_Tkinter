@@ -1,0 +1,14 @@
+from tkinter import * 
+
+
+janela = Tk()
+
+Label(janela, text='OLÁ FABRICIO PAIM').pack()
+
+janela.mainloop()
+
+
+# NESTA PRIMEIRA AULA IMPORTAMOS A BIBLIOTECA TKINTER 
+# CRIAMOS A PRIMEIRA JANELA 
+# PACK - FAZ O ENVELOPAMENTO
+# MAINLOOP - ESTE COMANDO EXECUTA A JANELA
